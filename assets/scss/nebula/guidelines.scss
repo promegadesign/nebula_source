@@ -1,0 +1,46 @@
+// variables
+$green-correct: #2e6b34;
+$red-incorrect: #811823;
+
+
+.guideline-container__correct {
+  /* background-color: green; */
+}
+
+.guideline-container__incorrect {
+  /* background-color: red; */
+}
+
+.guideline-heading__correct, .guideline-heading__incorrect {
+  font-weight: bold;
+  font-size: 24px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+}
+
+.guideline-heading__correct {
+  color: $green-correct;
+  border-bottom-color: $green-correct;
+}
+
+.guideline-heading__incorrect {
+  color: $red-incorrect;
+  border-bottom-color: $red-incorrect;
+}
+
+.guideline-first-word__correct, .guideline-first-word__incorrect {
+  font-weight: bold;
+}
+
+.guideline-first-word__correct {
+  color: $green-correct;
+}
+
+.guideline-first-word__incorrect {
+  color: $red-incorrect;
+}
+
+.guideline-img {
+  margin-bottom: 24px;
+  width: 100%;
+}
