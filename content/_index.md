@@ -1,7 +1,7 @@
 ---
 title : "Nebula"
-description: "Promega Design System [description]"
-lead: "Promega's digital design system"
+description: "Promega Design System"
+lead: "Promega's Digital Design System"
 draft: false
 images: []
 ---
