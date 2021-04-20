@@ -13,4 +13,5 @@ weight: 110
 toc: true
 ---
 
-## Color
+## Promega Brand
+Information on Promega's brand colors can be found on the [Brand Portal](https://promega.widencollective.com/portals/ipuxspqm/CopyofColorPromegaBrand).
