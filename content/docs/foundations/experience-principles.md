@@ -12,5 +12,3 @@ menu:
 weight: 100
 toc: true
 ---
-
-## Experience Principles
