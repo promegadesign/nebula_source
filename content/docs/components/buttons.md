@@ -82,13 +82,13 @@ Don't use an outline button on a busy background.
 
 {{< columns >}}
 {{< guidelines-correct >}}
-[Add Screenshot]
+{{< img-simple src="/images/components/buttons/do-contrast.png" class="guideline-img">}}
 
 Do check contrast between button and background.
 {{< guidelines-end >}}
 {{< column >}}
 {{< guidelines-incorrect >}}
-[Add Screenshot]
+{{< img-simple src="/images/components/buttons/dont-contrast.png" class="guideline-img">}}
 
 Don't use a button against a sol background.
 {{< guidelines-end >}}
@@ -96,13 +96,15 @@ Don't use a button against a sol background.
 
 {{< columns >}}
 {{< guidelines-correct >}}
-[Add Screenshot]
+{{< img-simple src="/images/components/buttons/do-align-1.png" class="guideline-img">}}
+{{< img-simple src="/images/components/buttons/do-align-2.png" class="guideline-img">}}
 
 Match button and text alignment.
 {{< guidelines-end >}}
 {{< column >}}
 {{< guidelines-incorrect >}}
-[Add Screenshot]
+{{< img-simple src="/images/components/buttons/dont-align-1.png" class="guideline-img">}}
+{{< img-simple src="/images/components/buttons/dont-align-2.png" class="guideline-img">}}
 
 Don't vary alignment of content within a container.
 {{< guidelines-end >}}
