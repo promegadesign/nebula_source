@@ -3,7 +3,7 @@ title: "Email Styles"
 description: ""
 date: 2021-02-23 16:32:22
 lastmod: 2021-02-23 16:32:27
-draft: true
+draft: false
 images: []
 menu:
   docs:
@@ -11,17 +11,6 @@ menu:
 weight: 120
 toc: true
 ---
-<!-- Inline styling for text styles -->
-<style type="text/css" rel="stylesheet">
-.email-para {
-  font-family: Arial;
-  font-size: 16px;
-  line-height: 2;
-  color: #444444;
-}
-</style>
-
-## Overview
 
 ## Font Family
 For all email messages, please **use Arial as the font family**.
@@ -38,9 +27,35 @@ Please use these default type styles to assures that our emails are consistent a
 {{< codepen id="bf473cbb541986a96c13a1ce6b86767c" height="880px" >}}
 
 ## Colors
+**Promega Sol** is our brand color and should be as the focal color and primary call to action button color.
+
+**Secondary colors** are meant to be used as accent colors to complement Promega Sol.
+
+{{< codepen id="243bf602b3c351c23933b6162fe213ea" height="640px" >}}
 
 ## Button Styles
 
+The following button styles are recommended for any call-to-action.
+
+For all primary call-to-action buttons, please use the **Primary Button** button style.
+
+If a secondary action is required please choose from one of the **Secondary Button** styles, or use a text link.
+
+{{< codepen id="196a1ca60a76358d88e725e52ad82452" height="520px" >}}
+
 ## Header Styles
 
+The following style is suggested for use on all Promega email sends.
+
+Using this header will create consistency among all global email communication regardless of content.
+
+{{< img-simple src="/images/email-style-guide/email-styles/header-style.png" class="guideline-img">}}
+
 ## Footer Style
+The following footer style is recommended to create consistency and a responsiveness.
+
+**Do not forget** to include the company address and an unsubscribe link.
+
+**Font size**: 10px
+
+{{< img-simple src="/images/email-style-guide/email-styles/footer-style.png" class="guideline-img">}}
