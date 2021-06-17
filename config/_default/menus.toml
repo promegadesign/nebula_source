@@ -31,6 +31,12 @@
   identifier = "components"
   url = "/docs/components/"
 
+[[docs]]
+  name = "Email Style"
+  weight = 50
+  identifier = "email-style"
+  url = "/docs/email-style"
+
 [[footer]]
   name = "Contact Us"
   url = "https://promega.formstack.com/forms/nebula_contact"
