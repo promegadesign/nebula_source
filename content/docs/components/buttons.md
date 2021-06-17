@@ -111,6 +111,6 @@ Don't vary alignment of content within a container.
 {{< endcolumns >}}
 
 
-## Modifiers
+<!-- ## Modifiers -->
 
-Here's info on the Sitecore modifiers used to create buttons.
+<!-- Here's info on the Sitecore modifiers used to create buttons. -->
