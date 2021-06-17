@@ -7,7 +7,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "email-style"
+    parent: "email-style-guide"
 weight: 120
 toc: true
 ---

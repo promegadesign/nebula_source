@@ -32,10 +32,10 @@
   url = "/docs/components/"
 
 [[docs]]
-  name = "Email Style"
+  name = "Email Style Guide"
   weight = 50
-  identifier = "email-style"
-  url = "/docs/email-style"
+  identifier = "email-style-guide"
+  url = "/docs/email-style-guide"
 
 [[footer]]
   name = "Contact Us"
