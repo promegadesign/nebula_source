@@ -3,7 +3,7 @@ title: "Anatomy of an Email"
 description: ""
 date: 2021-02-23 16:32:22
 lastmod: 2021-02-23 16:32:27
-draft: true
+draft: false
 images: []
 menu:
   docs:
@@ -12,6 +12,6 @@ weight: 110
 toc: true
 ---
 
-## Overview
-
 ## Parts of an Email
+
+{{< img-simple src="/images/email-style/anatomy-of-an-email/anatomy-of-an-email.png" class="guideline-img">}}
