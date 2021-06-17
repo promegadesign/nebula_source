@@ -59,4 +59,4 @@ For organization purposes and easy searching, use the following name convention:
 
 **[Branch or Department Code]-[Year]-[Main Descriptor]-[Secondary Descriptor]-[Project Number (if applicable)]**
 
-{{< img-simple src="/images/email-style/best-practices/naming-convention-example.png" class="guideline-img">}}
+{{< img-simple src="/images/email-style-guide/best-practices/naming-convention-example.png" class="guideline-img">}}

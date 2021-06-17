@@ -14,4 +14,4 @@ toc: true
 
 ## Parts of an Email
 
-{{< img-simple src="/images/email-style/anatomy-of-an-email/anatomy-of-an-email.png" class="guideline-img">}}
+{{< img-simple src="/images/email-style-guide/anatomy-of-an-email/anatomy-of-an-email.png" class="guideline-img">}}
