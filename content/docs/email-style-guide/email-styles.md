@@ -13,14 +13,14 @@ toc: true
 ---
 
 ## Font Family
-For all email messages, please **use Arial as the font family**.
+For all email messages, **use Arial as the font family**.
 
 Arial is a default web & system font. By using Arial, it assures that our emails are consistent and display as expected on multiple platforms.
 
 {{< codepen id="abfa2d68e52265f397dd0bc3511e8a54" height="450px" >}}
 
 ## Type Styles
-Please use these default type styles to assures that our emails are consistent and display as expected on multiple platforms.
+se these default type styles to assures that our emails are consistent and display as expected on multiple platforms.
 
 **To view the latest email type styles, refer to the “Promega Main Template” in Dynamics for Marketing (D4M).**
 
@@ -37,9 +37,9 @@ Please use these default type styles to assures that our emails are consistent a
 
 The following button styles are recommended for any call-to-action.
 
-For all primary call-to-action buttons, please use the **Primary Button** button style.
+For all primary call-to-action buttons, use the **Primary Button** button style.
 
-If a secondary action is required please choose from one of the **Secondary Button** styles, or use a text link.
+If a secondary action is required, choose from one of the **Secondary Button** styles, or use a text link.
 
 {{< codepen id="196a1ca60a76358d88e725e52ad82452" height="520px" >}}
 
