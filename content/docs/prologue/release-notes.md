@@ -30,4 +30,4 @@ For our next release, we're working on:
 * Text link styles
 * Tile components
 
-Want to request a specific component or feature? Use our [Request a Feature](https://promega.formstack.com/forms/nebula_request_feature) form.
+Want to request a specific component or feature? Use our [Contact Form](https://promega.formstack.com/forms/nebula_contact).

@@ -16,7 +16,6 @@ toc: true
 ## Design Advisory Guild
 The Design Advisory Guild (DAG) is a cross-functional team in Marketing Services. Blending our expertise in design, front-end development, and UX, our goal is to create a living resource for designing for Promega on the web.
 
-If you have questions or feedback, fill out our [Contact Form](https://promega.formstack.com/forms/nebula_contact).
 
 ### Current Guild Members
 * Cate Amery
@@ -25,9 +24,10 @@ If you have questions or feedback, fill out our [Contact Form](https://promega.f
 * Jenna Stormberg
 * Jason Ober
 
-## Report an Issue
-Find something wrong? Report it to us using this form: [Report an Issue](https://promega.formstack.com/forms/nebula_report_issue)
+## Contact Us
+[Contact Form](https://promega.formstack.com/forms/nebula_contact).
 
-
-## Request a Feature
-Are we missing something? Let us know what you'd like us to add: [Request a Feature](https://promega.formstack.com/forms/nebula_request_feature)
+Use this form to:
+* Share feedback or ask questions
+* Request a feature or content
+* Report an issue with Nebula

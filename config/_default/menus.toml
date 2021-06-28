@@ -41,14 +41,6 @@
   name = "Contact Us"
   url = "https://promega.formstack.com/forms/nebula_contact"
 
-[[footer]]
-  name = "Report an Issue"
-  url = "https://promega.formstack.com/forms/nebula_report_issue"
-
-[[footer]]
-  name = "Request a Feature"
-  url = "https://promega.formstack.com/forms/nebula_request_feature"
-
 
 # [[social]]
 #   name = "Twitter"
