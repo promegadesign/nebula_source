@@ -14,4 +14,4 @@ toc: true
 ---
 
 ## Promega Brand
-Information on Promega's brand typography can be found on the [Brand Portal](https://promega.widencollective.com/portals/op7opfpe/CopyofTypographyPromegaBrand).
+Information on Promega's brand typography can be found on the [Brand Portal](https://promega.widencollective.com/portals/op7opfpe/TypographyPromegaBrand).
