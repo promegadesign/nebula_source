@@ -2,8 +2,7 @@
 title: "Contact Us"
 description: ""
 lead: ""
-date: 2020-11-12T13:26:54+01:00
-lastmod: 2020-11-12T13:26:54+01:00
+date: 2021-04-01
 draft: false
 images: []
 menu:
@@ -23,9 +22,10 @@ The Design Advisory Guild (DAG) is a cross-functional team in Marketing Services
 * Jamie Xiong
 * Jenna Stormberg
 * Jason Ober
+* Max Stevenson
 
 ## Contact Us
-[Contact Form](https://promega.formstack.com/forms/nebula_contact).
+[Contact Form](https://promega.formstack.com/forms/nebula_contact)
 
 Use this form to:
 * Share feedback or ask questions
