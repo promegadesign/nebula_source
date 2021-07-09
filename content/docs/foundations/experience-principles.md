@@ -2,8 +2,7 @@
 title: "Experience Principles"
 description: "Click here!"
 lead: "Click here!"
-date: 2021-02-23 16:32:22
-lastmod: 2021-02-23 16:32:27
+date: 2021-04-01
 draft: true
 images: []
 menu:

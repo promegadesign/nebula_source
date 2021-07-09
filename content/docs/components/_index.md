@@ -2,8 +2,7 @@
 title : "Components"
 description: "Components of the design system"
 lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+date: 2021-04-01
 draft: false
 images: []
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Best Practices"
 description: ""
-date: 2021-02-23 16:32:22
-lastmod: 2021-02-23 16:32:27
+date: 2021-06-17
 draft: false
 images: []
 menu:
