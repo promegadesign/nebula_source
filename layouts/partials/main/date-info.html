@@ -1,0 +1,7 @@
+{{ $date := .Date.Format "January 2, 2006" }}
+{{ $lastmod := .Lastmod.Format "January 2, 2006" }}
+
+<span class="date-info">Published: {{ $date }}</span>
+{{ if ne $lastmod $date }}
+    <span class="date-info"> | Updated: {{ .Lastmod.Format "January 2, 2006" }}</span>
+{{ end }}

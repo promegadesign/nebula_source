@@ -16,9 +16,11 @@
 		<main class="docs-content col-lg-11 col-xl-9 mx-xl-auto">
 		{{ end -}}
 			<h1>{{ .Title }}</h1>
+			{{ partial "main/date-info.html" . }}
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
 			{{ partial "main/headline-hash.html" .Content }}
 			<!-- {{ partial "main/docs-navigation.html" . }} -->
+
 		</main>
 	</div>
 {{ end }}
