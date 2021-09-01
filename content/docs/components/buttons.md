@@ -13,7 +13,7 @@ toc: true
 
 ## Overview
 
-We use our primary brand color Sol sitewide to help users quickly identify available actions.
+We use our primary brand color Sol site-wide to help users quickly identify available actions.
 
 ### Solid / Primary
 
@@ -62,7 +62,7 @@ Displays at full width of its container.
 - Confirming completion of a flow or cancelling out of it
 
 ### Don't Use Buttons When
-- Taking users to a different section of the same page. Instead, use Links
+- Taking users to a different section of the same page. Instead, use {{< red-link title="Links" url="#" >}}.
 
 
 ### Do / Don't
