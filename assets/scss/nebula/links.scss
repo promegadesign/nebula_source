@@ -1,0 +1,12 @@
+// Variables
+$red-link: red;
+
+.red-link {
+  color: $red-link;
+  &:hover {
+    color: darken($red-link, 20%)
+  }
+  &:visited {
+    color: darken($red-link, 10%)
+  }
+}
